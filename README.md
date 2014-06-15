@@ -1,6 +1,8 @@
 # Brunch app
 
 This is HTML5 application, built with [Brunch](http://brunch.io).
+* JSX templates processed using the react-brunch plugin 
+* RequireJS modules instact (turn off using brunch-config.coffee)
 
 ## Getting started
 * Install (if you don't have them):
