@@ -3,8 +3,7 @@ exports.config =
  
   files:
     javascripts:
-      joinTo: 'app.js'
+      joinTo: 'js/app.js'
     stylesheets:
-      joinTo: 'app.css'
-    templates:
-      joinTo: 'app.js'
+      joinTo: 'css/app.css'
+
